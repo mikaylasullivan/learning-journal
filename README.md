@@ -6,7 +6,7 @@ My name is **Mikayla Sullivan**. I am a social good entrepreneur, world traveler
 To find out a bit more about my coding projects, feel free to check out my [Github Page!](https://mikaylasullivan.github.io/learning-journal/)
 
 #### Table of Contents
-:small_blue_diamond: [Home](/README.md)
+🔹 [Home](/README.md)
 
-:small_blue_diamond: [Growth Mindset](/growthmindset.md)
+🔹 [Growth Mindset](/growthmindset.md)
 
