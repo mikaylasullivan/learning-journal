@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+#Learning Journal Delta V Code 102
 
-You can use the [editor on GitHub](https://github.com/mikaylasullivan/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### About me:
+My name is **Mikayla Sullvan**. I am a social good entrepreneur, world traveler, and lifelong learner.  I co-founded, [KinoSol] (https://www.getkinosol.com), a startup focused on addressing food insecurity via solar food dehydrators and educational program, while I was at [Iowa State University] (https://www.iastate.edu). I went full time with my company upon graduation, and have been doing that ever since! Outside of KinoSol, I enjoy being outdoors, meeting new people, and am currenlty training for my next race, a [half Ironman] (https://www.ironman.com/im703-des-moines)! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mikaylasullivan/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+####Table of Contents####
+> [Home] (docs/README.md)
+> Growth Mindset
