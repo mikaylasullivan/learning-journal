@@ -6,7 +6,7 @@ Today we learned all about Markdown and how to use it on Github. Markdown is a t
 
 Markdown is used to create pages on Github and allows you to write the content for each page.
 
-## A few reminders: 
+### A few reminders: 
 
 Markdown text | What happens
 --------------|--------------
