@@ -14,4 +14,4 @@ A growth mindset means that you never believe you can stop learning. You believe
 
 🔹 [Growth Mindset](/growthmindset.md)
 
-🔹 [Class 1 Reflection](/class1reflection.md)
+🔹 [Learning Markdown](/learningmarkdown.md)
