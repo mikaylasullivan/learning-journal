@@ -4,7 +4,7 @@
 
 Today we learned all about Markdown and how to use it on Github. Markdown is a tool used to easily format webpages. I was honeslty surprised at how easy it is to use, once you get the hang of it! It allows you to do simple formating to your text and easily add some style to the content on your page. 
 
-Markdown is used to create pages on Github and allows you to write the content for each page.
+Markdown is a tool that can used to create pages on Github and allows you to write the content for each page. It's an alternative to using HTML.
 
 ### A few reminders: 
 
