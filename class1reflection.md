@@ -19,3 +19,10 @@ Using* | *Italic*
 Using # | headings: the more # you use the smaller the heading
 [text] followed by (link) | Creates [hyperlinks](link)
 using - | - creates lists 
+
+##### Table of Contents
+🔹 [Home](/README.md)
+
+🔹 [Growth Mindset](/growthmindset.md)
+
+🔹 [Class 1 Reflection] (/class1reflection.md)
