@@ -8,4 +8,4 @@ My name is **Mikayla Sullivan**. I am a social good entrepreneur, world traveler
 
 🔹 [Growth Mindset](/growthmindset.md)
 
-🔹 [Class 1 Reflection] (/class1reflection.md)
+🔹 [Class 1 Reflection](/class1reflection.md)
