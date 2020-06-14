@@ -7,3 +7,5 @@ My name is **Mikayla Sullvan**. I am a social good entrepreneur, world traveler,
 :small_blue_diamond:[Home](/README.md)
 
 :small_blue_diamond:Growth Mindset
+
+:star:
