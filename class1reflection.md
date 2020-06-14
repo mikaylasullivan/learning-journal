@@ -24,5 +24,3 @@ using - | - creates lists
 🔹 [Home](/README.md)
 
 🔹 [Growth Mindset](/growthmindset.md)
-
-🔹 [Class 1 Reflection] (/class1reflection.md)
