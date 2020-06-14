@@ -9,7 +9,7 @@ A growth mindset means that you never believe you can stop learning. You believe
 - *It's about the process and the effort put in, not the outcome or results. 
 - *Your only competition in life is you, there is no need to compare yourself to others, but rather be inspired by what they have achieved and be happy for them! 
 
-Table of Contents
-🔹 Home
+#### Table of Contents
+:small_blue_diamond: [Home](/README.md)
 
-🔹 Growth Mindset
+:small_blue_diamond: [Growth Mindset](/growthmindset.md)
